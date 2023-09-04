@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoArgentinaPrograma</string>
+    <string name="app_description">Comparador de texto by Agustin N.</string>
+    <string name="text_first">Primer texto:</string>
+    <string name="text_second">Segundo texto:</string>
+    <string name="text_example">Manzana</string>
+    <string name="btn_compare">Comparar strings</string>
+    <string name="compare_text">Presiona para obtener un resultado!</string>
+</resources>
